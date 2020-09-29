@@ -1,13 +1,9 @@
 
-CSE2012	OMELIA              	00	00	GEORGE
-cse2011	RESHMA              	00	00	TS
-CSE2001	RESHMA              	00	00	19IDO4
+CSE2012	OMELIA              	20	30	GEORGE
+cse2011	RESHMA              	30	40	TS
+CSE2001	RESHMA              	00	10	19IDO4
 IDDO454	ROHAN               	00	00	1936T
-DFFRH	RERN                	00	00	DKKE
-VFKGK	TINO                	00	00	ID543
-SNDJNJ	THIYA               	00	00	HDRE2
 cs1212	reji                	00	00	1as23
 cd223	RESHI               	00	00	1AS24
 CD224	RIMA                	00	00	1AS25
 cse2001	reshma              	00	00	123
-ede	deer                	00	00	123
