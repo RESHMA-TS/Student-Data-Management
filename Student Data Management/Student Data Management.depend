@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1601388281 source:c:\users\vishnu ts\desktop\programming\student data management\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+
